@@ -1,0 +1,1 @@
+{"access_token": "you're current token will be generated here", "token_type": "Bearer", "expires_in": 3600, "scope": "playlist-modify-public user-top-read user-read-currently-playing user-modify-playback-state user-read-playback-state user-read-recently-played", "expires_at": 1688074471, "refresh_token": "refresh token will be here"}
